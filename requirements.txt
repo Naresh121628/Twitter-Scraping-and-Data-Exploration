@@ -1,0 +1,5 @@
+python 
+pandas 
+pymango 
+snscrape
+streamlit 
